@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Arduino_uploader\\Tools\\build\\sketch\\a_sample_sketch.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "D:\\Faynman\\Desktop\\Arduino_uploader\\Tools\\build\\sketch\\Ticker.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
